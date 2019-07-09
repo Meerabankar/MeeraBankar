@@ -3,4 +3,4 @@ Data Science and Analytics
 
 Hello All,
 
-I am Graduate student at OU and I like data analytics field. I have 5+ years of experience in the data warehousing field. I know SQL, C, C++, R and Python(basic) and actively learning data science techniques.
+I am a Data Science and Analytics graduate student at the University of Oklahoma. I am actively learning machine learning, predictive modeling. I have 5+ years of experience in the data warehousing field. I have implemented machine learning, predictive modeling projects with R, Python, Tensorflow, Keras using supervised and unsupervised learning. 
