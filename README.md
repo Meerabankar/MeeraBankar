@@ -3,7 +3,7 @@
 
 I am Data Science and Analytics graduate student at the University of Oklahoma, Norman. I am actively learning the concepts, techniques, terms in this field. I have 5 years' experience in the field of data warehousing in Synechron Tehnologies pvt. ltd., Pune, India as an ETL engineer. During this 5 years tenure at Synechron Technologies I performed data validation, data analysis, data staging, SQL scripting, SQL query analysis and that helped me to get the better understanding of various kinds of data.
 
-As a part of my role as ETL resource building data warehouses after thorough quality checks and getting involved in Descriptive Analytics, I was intrigued to do something big in analytics and machine learning stream. While learning, I have developed few predictive modeling projects using R, python programming languages and I am still digging deep the machine learning and advanced data analytics concepts.
+As a part of my role as ETL resource building data warehouses after thorough quality checks and getting involved in Descriptive Analytics, I was intrigued to do something big in analytics and machine learning stream. While learning, I have developed few predictive modeling projects using R, python programming languages and I am still digging deeper in the machine learning and advanced data analytics concepts.
 
 
 
