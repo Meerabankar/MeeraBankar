@@ -1,8 +1,5 @@
 # Meera Bankar
-Data Science and Analytics
-University of Oklahoma
-
-Hello All,
+#### Data Science and Analytics | University of Oklahoma
 
 I am Data Science and Analytics graduate student at the University of Oklahoma, Norman. I am actively learning the concepts, techniques, terms in this field. I have 5 years' experience in the field of data warehousing in Synechron Tehnologies pvt. ltd., Pune, India as an ETL engineer. During this 5 years tenure at Synechron Technologies I performed data validation, data analysis, data staging, SQL scripting, SQL query analysis and that helped me to get the better understanding of various kinds of data.
 
@@ -12,7 +9,7 @@ As a part of my role as ETL resource building data warehouses after thorough qua
 
 ## My Projects:
 
-Home Credit Risk Prediction                                                                                       Oct 2018 - Dec 2018
+### Home Credit Risk Prediction                                                                                      Oct 2018 - Dec 2018
 
 -Implemented a predictive model to predict the customers who can repay their loan. Model is trained on many other features such as credit history, repayment pattern, property, job type, salary, investments, etc. Data munging is done by outlier handling, imputation, transformations, feature engineering. Model is built using Logistic regression, decision trees, random forest, and SVM, CV methods in R programming language. Results of all these models were compared and best fit model is used for predicting output on test data. All these models are evaluated using accuracy, ROC, cumulative gains chart metrics.
 
@@ -30,13 +27,13 @@ Home Credit Risk Prediction                                   
 
 
 
-#### Secure Remote User Authentication                                                                               Jul 2011 - Jun 2012
+### Secure Remote User Authentication                                                                                Jul 2011 - Jun 2012
 
 -It is a client and server application which provides mutual authentication for users with high security developed in C#. 
 
 
 
-#### Gas Agency Management System                                                                                    Jan 2011 - Jul 2011
+### Gas Agency Management System                                                                                     Jan 2011 - Jul 2011
 
 -An application for Gas Agency to manage operations at Gas Agencies developed in Java and MS Access.
 
