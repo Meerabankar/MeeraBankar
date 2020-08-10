@@ -34,6 +34,8 @@ A recommendation system with advanced features to recommend similar and relevant
 
 Purpose of this project is to build a predictive model to identify or predict the abnormal or fraud transactions to avoid future financial loss as well as to improve the financial security for the customers. Implemented a classification model(89% accuracy) to predict fraud transactions based on customers’ transaction history, purchase patterns. Model is trained on PCA features as data is confidential. Model is built with SVM, decision tree, ANN, Random Forest & evaluated with F1-score, accuracy. 
 
+https://github.com/Meerabankar/Fraud-Transaction-Detection
+
 
 #### Object identification using CNN (Feb 2019 – April 2019)
 A predictive model to identify objects from images is built using CNN, deep learning and trained on various object images with different training parameters such as dropouts, epochs, validations, batch_normalization, bias, regularization parameter, activation functions ELU, Sigmoid. Performed cross-validation to get the better performing parameters and the model is evaluated with AUC. Model is 86% accurate in predicting the objects from the image. 
