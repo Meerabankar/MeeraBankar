@@ -15,6 +15,8 @@ Marketing is part of every product based company as it is important to promote t
 So, the predictive model implemented in this project does exactly the same thing, it predicts if a customer will purchase the product or not. As this project is implemented on campaign data conducted by a Portuguese bank via phone calls, it has different features that include customers' personal, professional information, and economy-related information. The model is built with XGBoost, SVM, and RandomForest Classifier and is evaluated with F1-Score, AUC and it is 92% accurate in predicting if a customer will purchase a financial product or not in Portuguese bank.
 This model can be used in real-time for getting the list of customers who will possibly subscribe to the product as this model is 92% accurate in predicting the possibility and that way it will help companies to modify their marketing strategies in such a way that there will be more ROI.
 
+https://github.com/Meerabankar/Bank_Marketing
+
 
 #### Collision and collision Severity prediction in Oklahoma state to improve state highways (January 2020 to May 2020)
 
