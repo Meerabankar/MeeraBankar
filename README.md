@@ -33,7 +33,7 @@ As a part of my role as ETL resource building data warehouses after thorough qua
 
 
 
-#### Gas Agency Management System____________________________________________________________________Jan 2011 - Jul 2011
+#### Gas Agency Management System                                                                       Jan 2011 - Jul 2011
 
 -An application for Gas Agency to manage operations at Gas Agencies developed in Java and MS Access.
 
