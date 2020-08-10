@@ -33,12 +33,12 @@ As a part of my role as ETL resource building data warehouses after thorough qua
 
 
 
-#### Gas Agency Management System_______________________________________________________________________Jan 2011 - Jul 2011
+#### Gas Agency Management System____________________________________________________________________Jan 2011 - Jul 2011
 
 -An application for Gas Agency to manage operations at Gas Agencies developed in Java and MS Access.
 
 
-#### Predict abnormality of body parts____________________________________________________________________Mar 2019 – May 2019
+#### Predict abnormality of body parts________________________________________________________________Mar 2019 – May 2019
 
 -Implemented a machine learning algorithm to identify abnormality of different body parts such as hands, shoulder, humerus, fingers, forearm, elbow, wrist from x-ray images image using functional API with CNN and dense neural network with cross entropy, activation functions RELU and sigmoid. The module is trained on different body part images with normal and abnormal body part images and then used for predicting the abnormality with the probabilit. Model is evaluated ROC and the accuracy of prediction Model is 85% accurate in predicting the abnormality.
 
