@@ -18,6 +18,8 @@ This model can be used in real-time for getting the list of customers who will p
 https://github.com/Meerabankar/Bank_Marketing
 
 
+
+
 #### Collision and collision Severity prediction in Oklahoma state to improve state highways (January 2020 to May 2020)
 
 Each year in Oklahoma state, there are about 76,000 car collisions. In these collisions, about 700 people are killed, and about 44,000 people are injured. Statistically speaking, that's roughly 1 in 100 collisions where a person is killed and roughly 1 in 2 collisions where a person is injured. Oklahoma state highway authorities are continuously working on to improve the state roadways by studying the possible reasons behind collisions in areas where maximum collisions are happening. 
@@ -26,9 +28,14 @@ The predictive model implemented predicts the collisions and collision severity 
 This model will help in reducing the collisions up to a great extent if used to get the collision and collision severity predictions in real-time.
 
 
+
+
 #### Amazon Toy Recommendation System (August 2019 to November 2019)
 
 A recommendation system with advanced features to recommend similar and relevant products to customers with the use of Apriori and clustering algorithms. This project is implemented based on the customers' toy products purchase history from the amazon, the model implemented can be used in real-time for recommending the products for any e-commerce site. The model recommends different yet relevant products based on various features and categories. It is implemented using the Python K-means clustering algorithm, Apriori data mining algorithm, DBSCAN algorithm.
+
+
+
 
 #### Fraud Transaction Detection (May 2019 to July 2019)
 
@@ -37,9 +44,13 @@ Purpose of this project is to build a predictive model to identify or predict th
 https://github.com/Meerabankar/Fraud-Transaction-Detection
 
 
+
+
 #### Object identification using CNN (Feb 2019 – April 2019)
 A predictive model to identify objects from images is built using CNN, deep learning and trained on various object images with different training parameters such as dropouts, epochs, validations, batch_normalization, bias, regularization parameter, activation functions ELU, Sigmoid. Performed cross-validation to get the better performing parameters and the model is evaluated with AUC. Model is 86% accurate in predicting the objects from the image. 
 Better accuracy can be achieved with larger data set.
+
+
 
 #### Predict abnormality of body parts (Mar 2019 – May 2019)
 
@@ -48,9 +59,11 @@ Better accuracy can be achieved with larger data set.
 The purpose of this project is to build a predictive model that will do work of radiologists i.e.e to identify the abnormality of body parts from radiographs so that patients will get treated as early as they should be.  Implemented a machine learning predictive model (86% accurate) in Python Keras/TensorFlow to identify abnormality of different body parts form x-ray images using CNN, ANN with functional API approach. Performance for different parameters was recorded while execution and accordingly modifications to Functional API were done to get the better accuracy. More data is needed to get the better accuracy.
 
 
+
 #### Home Credit Risk Prediction_(Oct 2018 - Dec 2018)
 
 -Implemented a predictive model to predict the customers who can repay their loan. Model is trained on many other features such as credit history, repayment pattern, property, job type, salary, investments, etc. Data munging is done by outlier handling, imputation, transformations, feature engineering. Model is built using Logistic regression, decision trees, random forest, and SVM, CV methods in R programming language. Results of all these models were compared and best fit model is used for predicting output on test data. All these models are evaluated using accuracy, ROC, cumulative gains chart metrics.
+
 
 
 
@@ -60,15 +73,18 @@ The purpose of this project is to build a predictive model that will do work of 
 
 
 
+
 #### Secure Remote User Authentication (Jul 2011 - Jun 2012)
 
 -It is a client and server application which provides mutual authentication for users with high security developed in C#. 
 
 
 
+
 #### Gas Agency Management System (Jan 2011 - Jul 2011)
 
 -An application for Gas Agency to manage operations at Gas Agencies developed in Java and MS Access.
+
 
 
 
