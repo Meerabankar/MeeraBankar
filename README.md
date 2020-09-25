@@ -34,6 +34,7 @@ This model will help in reducing the collisions up to a great extent if used to 
 
 A recommendation system with advanced features to recommend similar and relevant products to customers with the use of Apriori and clustering algorithms. This project is implemented based on the customers' toy products purchase history from the amazon, the model implemented can be used in real-time for recommending the products for any e-commerce site. The model recommends different yet relevant products based on various features and categories. It is implemented using the Python K-means clustering algorithm, Apriori data mining algorithm, DBSCAN algorithm.
 
+https://github.com/Bhairavsingh/Amazon-Toy-Recommendation
 
 
 
