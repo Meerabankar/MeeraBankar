@@ -28,6 +28,10 @@ The predictive model implemented predicts the collisions and collision severity 
 This model will help in reducing the collisions up to a great extent if used to get the collision and collision severity predictions in real-time.
 
 
+https://github.com/Meerabankar/Collision-Severity-Prediction-OK-State
+
+
+
 
 
 #### Amazon Toy Recommendation System (August 2019 to November 2019)
