@@ -51,6 +51,7 @@ https://github.com/Meerabankar/Fraud-Transaction-Detection
 A predictive model to identify objects from images is built using CNN, deep learning and trained on various object images with different training parameters such as dropouts, epochs, validations, batch_normalization, bias, regularization parameter, activation functions ELU, Sigmoid. Performed cross-validation to get the better performing parameters and the model is evaluated with AUC. Model is 86% accurate in predicting the objects from the image. 
 Better accuracy can be achieved with larger data set.
 
+https://github.com/Meerabankar/MURA_Body-part-abnormality-prediction
 
 
 #### Predict abnormality of body parts (Mar 2019 – May 2019)
